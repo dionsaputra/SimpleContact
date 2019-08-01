@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple Contact</string>
+    <string name="empty_contact_list_text">Currently no contact found :(</string>
+    <string name="db_name">hipe_contact.db</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="empty_form_error_message">All fields should be filled</string>
+    <string name="close">Close</string>
+    <string name="add_contact_success">Add contact success</string>
+    <string name="delete_contact">Delete Contact?</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="call">Call</string>
+    <string name="send_email">Send email</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="contact_edit_success">Recent contact has been edit</string>
+    <string name="send_email_using">Send Email using:</string>
+    <string name="delete_contact_success">Recent contact has been delete</string>
+</resources>
